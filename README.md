@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blpere1" alt="blpere1" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/blperez1](https://github.com/blperez1)
+
+- I'm interested in learning C# and frameworks
 
 - 💬 Ask me about **JavaScript**
 
