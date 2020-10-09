@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**blperez1/blperez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi 👋, I'm Blossom
+
 ### I am a frontend developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blpere1" alt="blpere1" /></a> </p>
