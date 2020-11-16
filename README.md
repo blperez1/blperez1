@@ -1,19 +1,19 @@
 
 # Hello, I'm Blossom
 
-### I am a frontend developer
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blperez1" alt="blpere1" /></a> </p>
+## I am a Software Developer
 
 - 🌱 I’m currently learning **Java and MySQL** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/blperez1](https://github.com/blperez1)
+- I currently working on a **gatsby site and database design**
 
-- I'm interested in learning C# and frameworks
+- 👨‍💻 All of my projects are available [here](https://github.com/blperez1?tab=repositories)
 
-- 💬 Ask me about **current projects**
+- I'm interested in learning **C# and frameworks**
 
-- 📫 How to reach me **blossomperez18@gmail.com**
+- 💬 Ask me about **current projects and job offers**
+
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/blossom-perez-2781b7184/)
 
 - ⚡ Fun fact **I have an unhealthy obsession with Evil Dead 2.**
 
