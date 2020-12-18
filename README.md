@@ -3,9 +3,9 @@
 
 ## I am a Software Developer
 
-- 🌱 I’m currently learning **Java and MySQL** 
+- 🌱 I’m currently learning **Spring Boot** 
 
-- I currently working on a **gatsby site and database design**
+- I'm currently working on a **gatsby site and database design**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/blperez1?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **current projects and job offers**
 
-- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/blossom-perez-2781b7184/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/blossom-perez-2781b7184/)
 
 - ⚡ Fun fact **I have an unhealthy obsession with Evil Dead 2.**
 
