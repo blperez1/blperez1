@@ -3,15 +3,15 @@
 
 ## I am a Software Developer
 
-- 🌱 I’m currently learning **Spring Boot** 
+- 🌱 I’m currently learning **Python** 
 
-- I'm currently working on a **gatsby site and database design**
+- I'm currently working on a **Design patterns**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/blperez1?tab=repositories)
 
-- I'm interested in learning **C# and frameworks**
+- I'm interested in learning **Python, AWS, Security**
 
-- 💬 Ask me about **current projects and job offers**
+- 💬 Ask me about **current projects**
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/blossom-perez-2781b7184/)
 
